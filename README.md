@@ -38,7 +38,7 @@ This is the particular reason for extracting the files in the same folder and no
 The game crashes upon you losing your health, I didn't get the time to work on that, but I'll try to do so as soon as I get the time.
 
 ### Any Changes 
-If you wish to make any changes to this game fell free to do so, just don;t forget to credit me for the part I;ve done, not only me, but with all the projects you pick up from github.
+If you wish to make any changes to this game feel free to do so, just don't forget to credit me for the part I've done, not only me, but with all the projects you pick up from github.
 
 Thanks for using this repositoy! 
 

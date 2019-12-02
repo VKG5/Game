@@ -40,6 +40,6 @@ The game crashes upon you losing your health, I didn't get the time to work on t
 ### Any Changes 
 If you wish to make any changes to this game feel free to do so, just don't forget to credit me for the part I've done, not only me, but with all the projects you pick up from github.
 
-Thanks for using this repositoy! 
+Thanks for using this repository! 
 
 # :D
